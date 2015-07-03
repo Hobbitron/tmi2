@@ -1,0 +1,12 @@
+#/std/user.c
+stack ({0,0,0,0,0,})
+size 5
+auto_load ({})
+perms (["invisible":4,"max_hp":4,"PATH":4,"name":4,"stat":3,"channels":4,"npc":3,"max_sp":3,"shell":4,"harass":2,"title":4,"gender":1,"buffer_flag":1,"snoopable":4,"message_buffer":2,"ghost":4,"no_attack":2,"user":4,"wizard":4,"cap_name":4,"age":4,])
+ob_data (["volume":500,"invis":0,"termtype":"XTERM","time_to_heal":10,"max_sp":75,"shell":"none","title":"@@query_title","snoopable":0,"message_buffer":"","ghost":0,"weapon2":0,"no_attack":1,"weapon1":0,"languages":(["common":100,"orcish":100,]),"capacity":5000,"mass":7500,"cap_name":"Vanderbos","armor":([]),"ip":"127.0.0.1","invisible":0,"max_hp":57,"last_location":0,"spell_points":75,"race":"orc","PATH":"/cmds/std","hit_points":57,"name":"vanderbos","stat":(["dexterity":13,"constitution":14,"intelligence":14,"strength":13,]),"channels":(["toggle":({}),]),"id":({"vanderbos",}),"npc":0,"short":"@@query_short","bulk":1000,"harass":0,"gender":"male","wreply":0,"buffer_flag":0,"reply":0,"vision":"@@query_vision","linkdead":"@@query_linkdead","user":1,"wizard":0,"cwd":"/doc","age":34,])
+alias ([])
+xverb ([])
+skills (["Shield defense":0,"Blunt weapons":0,"Parrying defense":0,"Wilderness":0,"Theft":0,"First aid":0,"Stealth":0,"Healing spells":0,"Combat spells":0,"Thrusting weapons":0,"Divinations spells":0,"Cutting weapons":0,])
+skill_points (["Shield defense":0,"Blunt weapons":0,"Parrying defense":0,"Wilderness":0,"Theft":0,"First aid":0,"Stealth":0,"Healing spells":0,"Combat spells":0,"Thrusting weapons":0,"Divinations spells":0,"Cutting weapons":0,])
+skill_stats (["Shield defense":13,"Blunt weapons":13,"Parrying defense":13,"Wilderness":13,"Theft":13,"First aid":13,"Stealth":13,"Healing spells":14,"Combat spells":14,"Thrusting weapons":13,"Divinations spells":14,"Cutting weapons":13,])
+env_var ([])

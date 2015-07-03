@@ -1,0 +1,12 @@
+#/std/user.c
+stack ({0,0,0,0,0,})
+size 5
+auto_load ({})
+perms (["invisible":4,"max_hp":4,"name":4,"PATH":4,"channels":4,"stat":3,"npc":3,"shell":4,"max_sp":3,"title":4,"harass":2,"gender":1,"snoopable":4,"buffer_flag":1,"message_buffer":2,"ghost":4,"no_attack":2,"user":4,"wizard":4,"cap_name":4,"age":4,])
+ob_data (["volume":500,"time_to_heal":10,"termtype":"zmud","shell":"none","max_sp":81,"title":"@@query_title","snoopable":0,"message_buffer":"","ghost":0,"no_attack":1,"weapon2":0,"languages":(["gnomish":100,"common":100,]),"weapon1":0,"capacity":5000,"cap_name":"Vantest","mass":7500,"invisible":1,"ip":"127.0.0.1","armor":([]),"max_hp":53,"spell_points":81,"last_location":0,"race":"gnome","name":"vantest","hit_points":53,"PATH":"/cmds/std:/cmds/object:/cmds/xtra:/cmds/file:/cmds/wiz","channels":(["toggle":({}),]),"stat":(["dexterity":17,"strength":12,"intelligence":20,"constitution":10,]),"npc":0,"id":({"vantest",}),"short":"@@query_short","harass":0,"bulk":1000,"gender":"male","buffer_flag":0,"wreply":0,"linkdead":"@@query_linkdead","vision":"@@query_vision","reply":0,"user":1,"wizard":1,"cwd":"/std","age":818,])
+alias ([])
+xverb ([])
+skills (["Shield defense":0,"Parrying defense":0,"Blunt weapons":0,"Wilderness":0,"Theft":0,"First aid":0,"Stealth":0,"Healing spells":0,"Thrusting weapons":0,"Combat spells":0,"Cutting weapons":0,"Divinations spells":0,])
+skill_points (["Shield defense":0,"Parrying defense":0,"Blunt weapons":0,"Wilderness":0,"Theft":0,"First aid":0,"Stealth":0,"Healing spells":0,"Thrusting weapons":0,"Combat spells":0,"Cutting weapons":0,"Divinations spells":0,])
+skill_stats (["Shield defense":17,"Parrying defense":17,"Blunt weapons":12,"Wilderness":17,"Theft":17,"First aid":17,"Stealth":17,"Healing spells":20,"Thrusting weapons":12,"Combat spells":20,"Cutting weapons":12,"Divinations spells":20,])
+env_var (["prompt":"PI>",])

@@ -1,0 +1,11 @@
+#/std/user.c
+stack ({0,0,0,0,0,})
+size 5
+auto_load ({})
+perms (["harass":2,"title":4,"gender":1,"invisible":4,"buffer_flag":1,"snoopable":4,"message_buffer":2,"max_hp":4,"ghost":4,"no_attack":2,"user":4,"PATH":4,"wizard":4,"name":4,"stat":3,"channels":4,"cap_name":4,"age":4,"npc":3,"max_sp":3,"shell":4,])
+ob_data (["armor":([]),"ip":"127.0.0.1","invisible":0,"volume":500,"max_hp":49,"last_location":0,"spell_points":70,"race":"siren","PATH":"/cmds/std:/cmds/object:/cmds/xtra:/cmds/file:/cmds/wiz","hit_points":49,"name":"raysant","stat":(["dexterity":11,"constitution":14,"intelligence":19,"strength":11,]),"channels":(["toggle":({}),]),"termtype":"zmud","time_to_heal":10,"id":({"raysant",}),"npc":0,"max_sp":70,"short":"@@query_short","shell":"none","bulk":1000,"harass":0,"title":"@@query_title","gender":"male","wreply":0,"buffer_flag":0,"snoopable":0,"message_buffer":"","ghost":0,"reply":0,"weapon2":0,"no_attack":1,"vision":"@@query_vision","linkdead":"@@query_linkdead","weapon1":0,"languages":(["common":100,]),"user":1,"capacity":5000,"wizard":1,"mass":7500,"cap_name":"Raysant","cwd":"/doc","age":0,])
+alias ([])
+skills (["Shield defense":0,"Blunt weapons":0,"Parrying defense":0,"Wilderness":0,"Theft":0,"First aid":0,"Stealth":0,"Healing spells":0,"Combat spells":0,"Thrusting weapons":0,"Divinations spells":0,"Cutting weapons":0,])
+skill_points (["Shield defense":0,"Blunt weapons":0,"Parrying defense":0,"Wilderness":0,"Theft":0,"First aid":0,"Stealth":0,"Healing spells":0,"Combat spells":0,"Thrusting weapons":0,"Divinations spells":0,"Cutting weapons":0,])
+skill_stats (["Shield defense":11,"Blunt weapons":11,"Parrying defense":11,"Wilderness":11,"Theft":11,"First aid":11,"Stealth":11,"Healing spells":19,"Combat spells":19,"Thrusting weapons":11,"Divinations spells":19,"Cutting weapons":11,])
+env_var ([])

@@ -1,0 +1,119 @@
+/cmds/std/_help.c line 202: syntax error before doc/std/help/help_sc
+/cmds/std/_help.c line 206: Illegal LHS before the end of line
+/cmds/std/_help.c line 206: syntax error before the end of line
+/cmds/std/_help.c line 208: Illegal LHS before the end of line
+/cmds/std/_help.c line 208: syntax error before the end of line
+/cmds/std/_help.c line 211: Illegal LHS before the end of line
+/cmds/xtra/_gauge.c line 22: Undefined function rusage before ;
+/cmds/xtra/_mudinfo.c line 61: Undefined function rusage before ;
+/cmds/wiz/_times.c line 18: Undefined function rusage before ;
+/std/user.c line 612: syntax error before the end of line
+/std/user.c line 625: Illegal LHS before  loop--; ) {
+/std/user.c line 625: syntax error before  {
+/std/user.c line 627: Illegal LHS before the end of line
+/std/user.c line 630: continue statement outside loop before the end of line
+/std/user.c line 612: need case statements in switch/case, not just default: before the end of line
+/std/user.c line 612: need case statements in switch/case, not just default: before the end of line
+/std/user.c line 612: need case statements in switch/case, not just default: before the end of line
+/std/user.c line 644: syntax error before  {
+/std/user.c line 505: Wrong number of arguments to debug
+    Expected: 1  Got: 8 before ;
+/std/user.c line 505: Wrong number of arguments to debug
+    Expected: 1  Got: 8 before ;
+/std/user.c line 369: Too many local variables before  posgender;
+/std/user.c line 369: Too many local variables before the end of line
+/std/user.c line 370: Too many local variables before the end of line
+/std/user.c line 463: Undefined variable 'damrange' before  weapon->query("dama
+/std/user.c line 463: Illegal lvalue before  weapon->query("dama
+/std/user.c line 464: Undefined variable 'damrange' before 0];
+/std/user.c line 369: Too many local variables before  posgender;
+/std/user.c line 369: Too many local variables before the end of line
+/std/user.c line 370: Too many local variables before the end of line
+/std/user.c line 463: Undefined variable 'damrange' before  weapon->query("dama
+/std/user.c line 463: Illegal lvalue before  weapon->query("dama
+/std/user.c line 464: Undefined variable 'damrange' before 0];
+/std/user.c line 369: Too many local variables before  posgender;
+/std/user.c line 369: Too many local variables before the end of line
+/std/user.c line 370: Too many local variables before the end of line
+/std/user.c line 463: Undefined variable 'damrange' before  weapon->query("dama
+/std/user.c line 463: Illegal lvalue before  weapon->query("dama
+/std/user.c line 464: Undefined variable 'damrange' before 0];
+/std/user.c line 369: Too many local variables before  posgender;
+/std/user.c line 369: Too many local variables before the end of line
+/std/user.c line 370: Too many local variables before the end of line
+/std/user.c line 463: Undefined variable 'damrange' before  weapon->query("dama
+/std/user.c line 463: Illegal lvalue before  weapon->query("dama
+/std/user.c line 464: Undefined variable 'damrange' before 0];
+/std/user.c line 371: Too many local variables before  posgender;
+/std/user.c line 371: Too many local variables before the end of line
+/std/user.c line 372: Too many local variables before the end of line
+/std/user.c line 465: Undefined variable 'damrange' before  weapon->query("dama
+/std/user.c line 465: Illegal lvalue before  weapon->query("dama
+/std/user.c line 466: Undefined variable 'damrange' before 0];
+/std/user.c line 371: Too many local variables before  posgender;
+/std/user.c line 371: Too many local variables before the end of line
+/std/user.c line 372: Too many local variables before the end of line
+/std/user.c line 465: Undefined variable 'damrange' before  weapon->query("dama
+/std/user.c line 465: Illegal lvalue before  weapon->query("dama
+/std/user.c line 466: Undefined variable 'damrange' before 0];
+/std/user.c line 371: Too many local variables before  posgender;
+/std/user.c line 371: Too many local variables before the end of line
+/std/user.c line 372: Too many local variables before the end of line
+/std/user.c line 465: Undefined variable 'damrange' before  weapon->query("dama
+/std/user.c line 465: Illegal lvalue before  weapon->query("dama
+/std/user.c line 466: Undefined variable 'damrange' before 0];
+/std/user.c line 371: Too many local variables before  posgender;
+/std/user.c line 371: Too many local variables before the end of line
+/std/user.c line 372: Too many local variables before the end of line
+/std/user.c line 465: Undefined variable 'damrange' before  weapon->query("dama
+/std/user.c line 465: Illegal lvalue before  weapon->query("dama
+/std/user.c line 466: Undefined variable 'damrange' before 0];
+/std/user.c line 372: Too many local variables before the end of line
+/std/user.c line 465: Undefined variable 'damrange' before  weapon->query("dama
+/std/user.c line 465: Illegal lvalue before  weapon->query("dama
+/std/user.c line 466: Undefined variable 'damrange' before 0];
+/std/user.c line 467: Undefined variable 'damrange' before 1];
+/std/user.c line 372: Too many local variables before the end of line
+/std/user.c line 465: Undefined variable 'damrange' before  weapon->query("dama
+/std/user.c line 465: Illegal lvalue before  weapon->query("dama
+/std/user.c line 466: Undefined variable 'damrange' before 0];
+/std/user.c line 467: Undefined variable 'damrange' before 1];
+/std/user.c line 373: Too many local variables before the end of line
+/std/user.c line 509: Undefined variable 'total_atk' before  str + att_sk + wc +
+/std/user.c line 509: Illegal lvalue before  str + att_sk + wc +
+/std/user.c line 513: syntax error before ;
+/std/user.c line 524: Illegal LHS before the end of line
+/std/user.c line 529: Illegal LHS before the end of line
+/std/user.c line 530: Illegal LHS before the end of line
+/std/user.c line 541: Illegal LHS before the end of line
+/std/user.c line 541: syntax error before the end of line
+/std/user.c line 311: syntax error before  = str + attack_str 
+/std/user.c line 311: Illegal LHS before the end of line
+/std/user.c line 311: syntax error before  = str + attack_str 
+/std/user.c line 311: Illegal LHS before the end of line
+/std/user.c line 521: syntax error before ;
+/std/user.c line 526: Illegal LHS before the end of line
+/std/user.c line 449: Undefined variable 'ac' before -1) {
+/std/user.c line 485: Undefined variable 'wc' before  2;
+/std/user.c line 485: Illegal lvalue before  2;
+/std/user.c line 554: Undefined variable 'str' before " att_sk="+att_sk+" 
+/std/user.c line 554: Undefined variable 'dex' before " def_sk="+def_sk+" 
+/std/user.c line 449: Undefined variable 'ac' before -1) {
+/std/user.c line 554: Undefined variable 'str' before " att_sk="+att_sk+" 
+/std/user.c line 554: Undefined variable 'dex' before " def_sk="+def_sk+" 
+/std/user.c line 449: Undefined variable 'ac' before -1) {
+/std/user.c line 623: syntax error before the end of line
+/std/user.c line 628: Illegal LHS before the end of line
+/std/user.c line 628: syntax error before the end of line
+/std/user.c line 664: Illegal LHS before // "+qs+"!";
+/std/user.c line 664: syntax error before // "+qs+"!";
+/std/user.c line 665: Illegal LHS before the end of line
+/std/user.c line 626: syntax error before 75;
+/std/user.c line 632: syntax error before 75;
+/std/user.c line 643: Illegal LHS before the end of line
+/std/user.c line 643: Illegal LHS before the end of line
+/std/user.c line 622: Bad argument 1 to efun max() before );
+/std/user.c line 401: syntax error before ;
+/std/user.c line 418: Illegal LHS before the end of line
+/std/user.c line 425: Missing type for global variable declaration before the end of line
+/std/user.c line 426: syntax error before  (prots && sizeof(pr
