@@ -117,3 +117,32 @@
 /std/user.c line 418: Illegal LHS before the end of line
 /std/user.c line 425: Missing type for global variable declaration before the end of line
 /std/user.c line 426: syntax error before  (prots && sizeof(pr
+/cmds/std/spells/_fireball.c line 7: Missing type for argument before )
+/cmds/std/spells/_fireball.c line 9: Undefined function block_attack before ;
+/cmds/std/_cloaksight.c line 30: Undefined variable 'realm' before  0) {
+/std/user.c line 242: Wrong number of arguments to query_mout
+    Expected: 1  Got: 0 before  + "\n", prev);
+/std/user.c line 218: Undefined variable 'env' before  environment( this_o
+/std/user.c line 218: Illegal lvalue before  environment( this_o
+/std/user.c line 242: Wrong number of arguments to query_mout
+    Expected: 1  Got: 0 before  + "\n", prev);
+/std/user.c line 218: Undefined variable 'env' before  environment( this_o
+/std/user.c line 218: Illegal lvalue before  environment( this_o
+/std/user.c line 242: Wrong number of arguments to query_mout
+    Expected: 1  Got: 0 before  + "\n", prev);
+/std/user.c line 218: Undefined variable 'env' before  environment( this_o
+/std/user.c line 218: Illegal lvalue before  environment( this_o
+/std/user.c line 218: Undefined variable 'env' before  environment( this_o
+/std/user.c line 218: Illegal lvalue before  environment( this_o
+/std/user.c line 242: Wrong number of arguments to query_mout
+    Expected: 1  Got: 0 before  + "\n", prev);
+/std/user.c line 242: Wrong number of arguments to query_mout
+    Expected: 1  Got: 0 before  + "\n", prev);
+/std/user.c line 242: Wrong number of arguments to query_mout
+    Expected: 1  Got: 0 before  + "\n", prev);
+/std/user.c line 218: Undefined variable 'env' before  environment( this_o
+/std/user.c line 218: Illegal lvalue before  environment( this_o
+/cmds/std/_say.c line 30: Undefined function room_message before ;
+/cmds/std/_say.c line 30: Undefined function room_message before ;
+/cmds/std/_say.c line 30: Undefined function room_message before ;
+/cmds/std/_say.c line 30: Undefined function room_message before ;

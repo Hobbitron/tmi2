@@ -207,7 +207,7 @@ nomask int query_prevent_shadow(object ob) {
  * leaves.
  */
 varargs int move_player(mixed dest, string message, string dir) {
-    object prev;
+    object prev, env;
     int res;
 
     prev = environment( this_object() );
@@ -215,8 +215,10 @@ varargs int move_player(mixed dest, string message, string dir) {
         message(MSG_INFO, "You remain where you are.\n", this_player());
         return res;
     }
+	
+	env = environment( this_object() );
 
-    if (environment() && wizardp(this_object()) && query("display_path"))
+    if (env && wizardp(this_object()) && query("display_path"))
         message(MSG_LOOK, sprintf("[%s]\n", file_name(environment())),
               this_object());
 
@@ -232,20 +234,26 @@ varargs int move_player(mixed dest, string message, string dir) {
         if (message == 0 || message == "") {
 
             if (dir && dir != "") {
-                message(MSG_MOVEMENT, (string)query_mout(dir) + "\n",
-                      prev, this_object());
-                message(MSG_MOVEMENT, (string)query_min() + "\n",
-                      environment(), this_object());
+				movement((string)query_mout(dir) + "\n", prev);
+				movement((string)query_min() + "\n", env);
+                //message(MSG_MOVEMENT, (string)query_mout(dir) + "\n",
+                //      prev, this_object());
+                //message(MSG_MOVEMENT, (string)query_min() + "\n",
+                //      environment(), this_object());
             } else {
-                message(MSG_MOVEMENT, (string)query_mmout() + "\n",
-                      prev, this_object());
-                message(MSG_MOVEMENT, (string)query_mmin() + "\n",
-                      environment(), this_object());
+				movement((string)query_mmout() + "\n", prev);
+				movement((string)query_mmin() + "\n", env);
+                //message(MSG_MOVEMENT, (string)query_mmout() + "\n",
+                //      prev, this_object());
+                //message(MSG_MOVEMENT, (string)query_mmin() + "\n",
+                //      environment(), this_object());
             }
         } else {
-            message(MSG_MOVEMENT, message + "\n", prev, this_object());
-            message(MSG_MOVEMENT, (string)query_min() + "\n", environment(),
-                  this_object());
+			movement(message + "\n", prev);
+			movement((string)query_min() + "\n", env);
+            //message(MSG_MOVEMENT, message + "\n", prev, this_object());
+            //message(MSG_MOVEMENT, (string)query_min() + "\n", environment(),
+            //      this_object());
         }
     }
 
@@ -400,7 +408,7 @@ static int loop, noise;
 varargs void execute_attack (int hit_mod, int dam_mod) {
     int att_sk, def_sk, str,/* dex, ac, wc, */hit_chance;
 	//int hitbox, total_atk, total_def;
-	int total_atk, total_def, hitbox;
+	int total_atk, total_def, hitbox, damage;
     string name, verb1, verb2, vname, damstr, damstr2, wepstr, *verbs;
     mixed *contents;
     object *prots;
@@ -559,38 +567,9 @@ varargs void execute_attack (int hit_mod, int dam_mod) {
 	//debug("str="+str+" att_sk="+att_sk+" wc="+wc+" dex="+dex+" def_sk="+def_sk+" ac="+ac+" hit_mod="+hit_mod);
 
     /*
-     * Attacking invisible creatures is really rather difficult.
-     */
-    if ((int)attackers[0]->query("invisible")>0)
-        hit_chance /= 5;
-
-    /*
      * The hit chance is constrained to be between 2 and 98 percent.
      */
     if (hit_chance<5)  hit_chance = 5;    
-
-    /*
-     * Improve the skills of the attacker and defender.
-     *
-     * The probability of the skill improving depends on the hit chance. If the
-     * hit chance is 0 or 100, the skill does not improve. If the hit chance is
-     * 50%, then the skill improves automatically. The closer the hit chance is
-     * to 50%, the more likely the skill is to improve. This rewards players for
-     * taking on monsters roughly equal in skill to themselves.
-     */
-    skill_improve_prob = hit_chance * (100-hit_chance) / 25;
-    if (random(100)<skill_improve_prob) {
-        improve_skill(weapontype,1);
-    }
-    if (random(100)<skill_improve_prob) {
-        if (!attackers[0]->query_monster()) {
-            if (attackers[0]->query("armor/shield")) {
-                attackers[0]->improve_skill("Shield defense",1);
-            } else {
-                attackers[0]->improve_skill("Parrying defense",1);
-            }
-        }
-    }
 
     /*
      * Get a list of all in the room who are listening to the battle.
@@ -641,8 +620,13 @@ varargs void execute_attack (int hit_mod, int dam_mod) {
 	{
 		//Crushing Blow
 		printf("Crushing Blow!\n");
-		damage = damage*5/4;
+		damage = damage*2;
+		execute_attack(hit_mod-5, dam_mod-5);
 	}	
+	else
+	{
+		printf("Miss!\n");
+	}
     if (damage>0 && hitbox <= hit_chance){
 
         //str = attackers[0]->query("hit_points")
@@ -1562,19 +1546,30 @@ static void die() {
 }
 
 string query_short() {
+	string capname;
+	string title;
     if (query("name") == "noname")  return "Noname";
 
     if (!interactive(this_object()))
         return (query("title") + " [disconnected]");
+	
+	if (query("realm")) {
+		capname = query("cap_name") + " (umbra)";
+		title = query("title") + " (umbra)";		
+	}
+	else {
+		capname = query("cap_name");
+		title = query("title");
+	}
 
     if (query("inactive"))
-        return query("cap_name") + " is presently inactive";
+        return capname + " is presently inactive";
     else if (this_player() && attackers && sizeof(attackers) &&
           environment(this_player()) == environment(this_object()))
-        return query("cap_name") + " is attacking " +
+        return capname + " is attacking " +
               capitalize((string)attackers[0]->query("name")) + ".";
-    else if (query_idle(this_object())>300) return query("title")+" (idle)";
-        return query("title");
+    else if (query_idle(this_object())>300) return title +" (idle)";
+        return title;
 }
 
 string query_title() {

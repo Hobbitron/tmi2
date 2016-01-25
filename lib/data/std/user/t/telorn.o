@@ -1,0 +1,12 @@
+#/std/user.c
+stack ({0,0,0,0,0,})
+size 5
+auto_load ({})
+perms (["invisible":4,"max_hp":4,"name":4,"PATH":4,"channels":4,"stat":3,"tell_backlog":2,"npc":3,"shell":4,"max_sp":3,"title":4,"harass":2,"gender":1,"snoopable":4,"buffer_flag":1,"message_buffer":2,"ghost":4,"no_attack":2,"user":4,"wizard":4,"cap_name":4,"age":4,])
+ob_data (["volume":500,"invis":0,"tell_backlog":({"Vanderbos told you: ho",}),"time_to_heal":10,"termtype":"UNKNOWN","last_attacker":0,"medium":1,"shell":"none","max_sp":75,"title":"@@query_title","snoopable":0,"message_buffer":"","ghost":0,"no_attack":1,"weapon2":0,"languages":(["common":100,"elvish":100,]),"weapon1":0,"capacity":5000,"cap_name":"Telorn","mass":7500,"cloaksight":0,"ref":(["default":({(["Shield defense":0,"Parrying defense":0,"Blunt weapons":0,"Wilderness":0,"Theft":0,"First aid":0,"Stealth":0,"Healing spells":0,"Combat spells":0,"Thrusting weapons":0,"Divinations spells":0,"Cutting weapons":0,]),([]),([]),}),"sc":({0,0,}),]),"invisible":1,"ip":"127.0.0.1","armor":([]),"max_hp":52,"spell_points":75,"last_location":0,"race":"elf","name":"telorn","hit_points":52,"PATH":"/cmds/std","channels":(["toggle":({}),]),"stat":(["dexterity":10,"strength":9,"intelligence":14,"constitution":10,"luck":10,"willpower":10,]),"npc":0,"id":({"telorn",}),"short":"@@query_short","harass":0,"bulk":1000,"gender":"male","buffer_flag":0,"wreply":0,"linkdead":"@@query_linkdead","vision":"@@query_vision","reply":0,"user":1,"wizard":0,"realm":0,"cwf":"/cmds/object/_call.c","cwd":"/doc","age":33944,])
+alias ([])
+xverb ([])
+skills (["Shield defense":0,"Parrying defense":0,"Blunt weapons":0,"Wilderness":0,"Theft":0,"First aid":0,"Stealth":0,"Healing spells":0,"Thrusting weapons":0,"Combat spells":0,"Cutting weapons":0,"Divinations spells":0,])
+skill_points (["Shield defense":0,"Parrying defense":0,"Blunt weapons":0,"Wilderness":0,"Theft":0,"First aid":0,"Stealth":0,"Healing spells":0,"Thrusting weapons":0,"Combat spells":0,"Cutting weapons":0,"Divinations spells":0,])
+skill_stats (["Shield defense":10,"Parrying defense":10,"Blunt weapons":9,"Wilderness":10,"Theft":10,"First aid":10,"Stealth":10,"Healing spells":14,"Thrusting weapons":9,"Combat spells":14,"Cutting weapons":9,"Divinations spells":14,])
+env_var ([])

@@ -17,30 +17,54 @@
 
 varargs int visible( object detectee_obj, object detector_obj )
 {
-  string detector_euid;
-  int detector_rank;
-  int detectee_vis;
 
-  if( !detectee_obj ) return 0;
-  if( !detector_obj )
-  {
-    detector_euid = "TEMP";
-  } else {
-    // An object can always find itself.
-    if( detector_obj == detectee_obj ) return 1;
-    detector_euid = geteuid( detector_obj );
-  }
+	string detector_euid;
+	int detector_rank, detector_realmsight;
+	int detectee_vis, detectee_realm;
 
-// Find the detector's rank
-  if( detector_obj ) detector_rank = wizardp( detector_obj );
-  if( adminp( detector_euid ) ) detector_rank = 2;
+	if( !detectee_obj ) return 0;
+	if( !detector_obj )	{
+		detector_euid = "TEMP";
+	} else {
+		// An object can always find itself.
+		if( detector_obj == detectee_obj ) return 1;
+		detector_euid = geteuid( detector_obj );
+	}
+
+	// Find the detector's rank
+	if( detector_obj ) {
+		if (wizardp( detector_obj ))
+			detector_rank = 2;
+		else if (adminp( detector_obj ))
+			detector_rank = 3;
+		else if (detector_obj->query("cloaksight"))
+			detector_rank = 1;
+		else
+			detector_rank = 0;
+	} 
+
+	// Find the detector's realm	
+	if( detector_obj ) {
+		detector_realmsight = 0;
+		if (detector_obj->query("realm"))
+			detector_realmsight = detector_obj->query("realm");
+		else if (detector_obj->query("umbrasight"))
+			detector_realmsight = 1;
+		else if (wizardp(detector_obj))
+			detector_realmsight = 1;
+	} 
 
 // Find the detectee's visibility
-   if( objectp( detectee_obj ) )
-  detectee_vis = detectee_obj-> query( "invisible" );
-  if( hiddenp( detectee_obj ) ) detectee_vis = 3;
+	if( objectp( detectee_obj ) ) {
+		detectee_vis = detectee_obj-> query( "invisible" );
+		//determine realm of detectee
+		detectee_realm = detectee_obj->query("realm");
+	}
+	
+	if( hiddenp( detectee_obj ) ) detectee_vis = 4;
 
 // Compare them
-  if( detectee_vis > detector_rank ) return 0; // detector can't see detectee.
+  if( detectee_vis > detector_rank) return 0; // detector can't see detectee.
+  if (detector_realmsight == 0 && detectee_realm == 1) return 0; //detector is in the realm, and can't see the umbra
   return 1; // detector can see detectee.
 }

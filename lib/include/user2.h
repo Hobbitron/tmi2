@@ -9,9 +9,6 @@
 #define USER_MASS 7500
 #define USER_BULK 1000
 
-#define RACES ({ "dwarf", "elf", "gnome", "human", "orc",\
-                 "troll", "halfling", "sprite", "shadow",\
-                 "ent", "siren", "skeleton", "zombie",\
-                 })
+#define RACES ({ "human" })
 
-#define GENDERS ({ "male", "female", "neuter", "hermaphradite" })
+#define GENDERS ({ "male", "female"})

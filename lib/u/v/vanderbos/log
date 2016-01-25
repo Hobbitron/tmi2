@@ -1,2 +1,61 @@
 /u/v/vanderbos/CMD_EVAL_TMP_FILE.c line 13: Undefined function MIN before ;
 /u/v/vanderbos/CMD_EVAL_TMP_FILE.c line 13: Undefined variable 'MIN' before the end of line
+/cmds/std/_look.c line 188: Left argument of -> is not a class before ("max_hp");
+/cmds/std/_look.c line 188: syntax error before ("max_hp");
+/cmds/std/_look.c line 189: Left argument of -> is not a class before ("hit_points");
+/cmds/std/_look.c line 189: Illegal LHS before ("hit_points");
+/cmds/std/_look.c line 189: syntax error before ("hit_points");
+/cmds/std/_look.c line 191: Illegal LHS before the end of line
+/cmds/std/_look.c line 188: Left argument of -> is not a class before ("max_hp");
+/cmds/std/_look.c line 188: syntax error before ("max_hp");
+/cmds/std/_look.c line 189: Left argument of -> is not a class before ("hit_points");
+/cmds/std/_look.c line 189: Illegal LHS before ("hit_points");
+/cmds/std/_look.c line 189: syntax error before ("hit_points");
+/cmds/std/_look.c line 191: Illegal LHS before the end of line
+/cmds/std/spells/_fireball.c line 12: Undefined variable 'str' before "NONE") {
+/cmds/std/spells/_fireball.c line 12: Undefined variable 'str' before "NONE") {
+/cmds/std/spells/_fireball.c line 12: Undefined variable 'str' before environment(this_pla
+/cmds/std/spells/_fireball.c line 45: Undefined function cast_fireball before ;
+/cmds/std/spells/_fireball.c line 51: Missing type for argument before )
+/cmds/std/spells/_fireball.c line 53: Undefined function block_attack before ;
+/cmds/std/spells/_fireball.c line 7: Missing type for argument before )
+/cmds/std/spells/_fireball.c line 9: Undefined function block_attack before ;
+/cmds/std/spells/_fireball.c line 7: Missing type for argument before )
+/cmds/std/spells/_fireball.c line 9: Undefined function block_attack before ;
+/cmds/std/spells/_fireball.c line 7: Missing type for argument before )
+/cmds/std/spells/_fireball.c line 9: Undefined function block_attack before ;
+/cmds/std/spells/_fireball.c line 7: Missing type for argument before  target)
+/cmds/std/spells/_fireball.c line 7: syntax error before )
+/cmds/std/spells/_fireball.c line 9: Undefined function block_attack before ;
+/cmds/std/spells/_fireball.c line 51: Bad type for argument 1 of cast_fireball ( string vs object ) before ;
+/cmds/std/spells/_fireball.c line 9: Undefined variable 'this' before player()->block_atta
+/cmds/std/spells/_fireball.c line 9: Undefined function player before ->block_attack(2);
+/cmds/std/spells/_fireball.c line 51: Bad type for argument 1 of cast_fireball ( string vs object ) before ;
+/cmds/std/spells/_fireball.c line 51: Bad type for argument 1 of cast_fireball ( string vs object ) before ;
+/cmds/std/spells/_fireball.c line 7: Missing type for argument before  target)
+/cmds/std/spells/_fireball.c line 7: syntax error before )
+/cmds/std/spells/_fireball.c line 60: syntax error before the end of file
+/cmds/std/spells/_fireball.c line 63: Undefined function query_attackers before  ;
+/cmds/std/_gauntletwalk.c line 78: End of file in string at the end of the file
+/cmds/std/_gauntletwalk.c line 78: syntax error at the end of the file
+/adm/simul_efun/visible.c line 21: Reserved type name unexpected. before ;
+/adm/simul_efun/visible.c line 21: syntax error before ;
+/adm/simul_efun/visible.c line 27: Illegal LHS before the end of line
+/adm/simul_efun/visible.c line 28: syntax error before  {
+/adm/simul_efun/visible.c line 21: Reserved type name unexpected. before ;
+/adm/simul_efun/visible.c line 21: syntax error before ;
+/adm/simul_efun/visible.c line 27: Illegal LHS before the end of line
+/adm/simul_efun/visible.c line 28: syntax error before  {
+/cmds/std/_say.c line 29: Undefined variable 'this' before player()->query("rea
+/cmds/std/_say.c line 29: Undefined function player before ->query("realm"))
+/cmds/std/_say.c line 31: syntax error before the end of line
+/cmds/std/_say.c line 31: syntax error before the end of line
+/cmds/std/_look.c line 161: Reserved type name unexpected. before , realm;
+/cmds/std/_look.c line 161: syntax error before , realm;
+/cmds/std/_look.c line 165: Undefined variable 'what' before query ("invisible");
+/cmds/std/_look.c line 165: Illegal LHS before the end of line
+/cmds/std/_look.c line 166: Undefined variable 'invis' before the end of line
+/cmds/std/_look.c line 168: Undefined variable 'who' before )
+/cmds/std/_cloaksight.c line 30: Undefined variable 'realm' before  0) {
+/cmds/std/_emote.c line 15: Undefined function room_message before ;
+/cmds/std/_say.c line 26: syntax error before ()->query("cap_name"

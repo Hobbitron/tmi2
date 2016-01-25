@@ -180,13 +180,17 @@ int can_see2 (object what, object who) {
 
 string living_description (object ob) {
   object *inv;
-  int i;
+  int i, maxhp, curhp;
   string a1, a2, tmp, reg, race, raceat, short, gender, genat;
    
   reg = (string)ob->query ("long");
   if (!reg)
     reg = "";
    
+  maxhp = (int)ob->query)("max_hp");
+  curhp = (int)ob->query)("hit_points");
+  sprintf("%s/%s hp", maxhp, curhp);
+  
   race = (string)ob->query ("race");
   raceat = article (race) + " " + race;
   gender = (string)ob->query ("gender");
@@ -439,11 +443,7 @@ details of the surroundings are given. */
     if (flag && viewingOb->query ("brief")) {
       long = sprintf ("%s\n", room->query ("short"));
     } else {
-#ifdef LONG_WITH_SHORT
       long = sprintf ("%s\n%s", room->query ("short"), room->query ("long"));
-#else
-      long = room->query ("long");
-#endif
       if (!flag && room->query ("outside"))
         long += WEATHER_D->query_weather_msg();
     }

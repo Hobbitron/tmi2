@@ -10,7 +10,7 @@
 name : SAMud
 
 # Define what port number the game is to use.
-port number :5000 
+port number :5555 
 
 # IP address (symbolic name) of machine where address server
 # will be running.
@@ -23,8 +23,8 @@ address server port : 6364
 # (currently this option is unused)
 maximum users : 20
 
-mudlib directory : c:\tmi2\lib
-binary directory : c:\tmi2\bin
+mudlib directory : c:\ShadowAccordMud\lib
+binary directory : c:\ShadowAccordMud\bin
 
 # This is the subdirectory where all the domain directorys are placed.
 domain directory : d

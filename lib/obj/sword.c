@@ -17,13 +17,13 @@ void create() {
 // "weapon" is the attack Class of the weapon. Anything with an attack Class
 // of 0 is not a weapon. Things with positive numbers are weapons. Higher
 // numbers make it easier to hit the target.
-	set ("weapon", 6) ;
+	set ("weapon", 1000) ;
 // "damage" is the weapon the damage does in the hands of a normal user
 // against an unarmored target. The first element of the array is the
 // minimum damage: the second element is the maximum. Actual damage is
 // a random number drawn with equal probability from all integers between
 // the min and the max.
-	set ("damage", ({ 2,10 }) ) ;
+	set ("damage", ({ 800,1000 }) ) ;
 // "type" controls which skill is used in operating the weapon. Should be
 // one of three kinds, cutting, blunt, and thrusting, unless you alter
 // the skills in which case it can be something else.

@@ -15,7 +15,7 @@
 
 inherit DAEMON;
 
-#define SYNTAX	"Syntax: invis [none | players | wizards]\n"
+#define SYNTAX	"Syntax: invis [none | players | wizards]\n\n"
 
 varargs int cmd_invis(string str) {
    object act_ob;
@@ -66,7 +66,7 @@ varargs int cmd_invis(string str) {
 	}
 	else olprompt = (string)act_ob->getenv("oldprompt");
  
-	act_ob->set("invisible", 1);
+	act_ob->set("invisible", 2);
 	act_ob->setenv("prompt", (olprompt ? ("PI " + olprompt) : "PI>"));
 	act_ob->do_new();
  
@@ -83,7 +83,7 @@ varargs int cmd_invis(string str) {
 	}
 	else olprompt = (string)act_ob->getenv("oldprompt");
  
-	act_ob->set("invisible", 2);
+	act_ob->set("invisible", 3);
 	act_ob->setenv("prompt", (olprompt ? ("WI " + olprompt) : "WI>"));
 	act_ob->do_new();
  

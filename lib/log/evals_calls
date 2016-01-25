@@ -1,0 +1,56 @@
+************
+Sep 19 09:14 [telorn] call'd: telorn wizardp
+************
+Sep 19 09:19 [telorn] call'd: wizardp(telorn)
+************
+Sep 19 09:19 [telorn] call'd: this_player->wizardp(telorn)
+************
+Sep 19 09:19 [telorn] call'd: this_player()->wizardp(telorn)
+************
+Sep 19 09:20 [telorn] call'd: wizardp(this_player())
+************
+Sep 19 09:20 [telorn] call'd: this_player()->query("wizard")
+************
+Sep 19 09:20 [telorn] call'd: this_player()->query("wizard")
+************
+Sep 19 09:21 [telorn] call'd: me this_player()->query("wizard")
+************
+Sep 19 09:21 [telorn] call'd: telorn this_player()->query("wizard")
+************
+Sep 19 09:21 [telorn] call'd: this_player() query("wizard")
+************
+Sep 19 09:26 [telorn] call'd: Telorn->query("wizard")
+************
+Sep 19 09:26 [telorn] call'd: Telorn->set("constitution", 11)
+************
+Sep 19 09:28 [telorn] call'd: me->set("constitution", 11)
+************
+Sep 19 09:30 [telorn] call'd: me
+************
+Sep 19 09:30 [telorn] call'd: me asd
+************
+Sep 19 09:31 [telorn] call'd: me
+************
+Sep 19 09:32 [telorn] call'd: me query_skills()
+************
+Sep 19 09:32 [telorn] call'd: me->query_skills()
+************
+Sep 19 09:32 [telorn] call'd: me
+************
+Sep 19 09:32 [telorn] call'd: me
+************
+Sep 19 09:33 [telorn] call'd: me
+************
+Sep 19 09:33 [telorn] call'd: me
+************
+Sep 19 09:33 [telorn] call'd: users
+************
+Sep 19 09:34 [telorn] call'd: users
+************
+Sep 19 09:35 [telorn] call'd: me
+************
+Sep 19 09:36 [telorn] call'd: me
+************
+Sep 19 12:50 [raysant] call'd: message("write", "Locate query sent.\n", this_player())
+************
+Sep 19 12:50 [raysant] call'd: tell_object("write", "Locate query sent.\n", this_player())

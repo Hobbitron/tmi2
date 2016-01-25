@@ -30,15 +30,15 @@ void create () {
 	set ("gender", "neuter") ;
 	enable_commands() ;
 	set_living_name("curly") ;
-	set ("hit_points", 70) ;
-	set ("max_hp",70) ;
+	set ("hit_points", 999999) ;
+	set ("max_hp",999999) ;
 	set ("attack_strength", 1) ;
 	set ("damage", ({ 1,4 }) ) ;
 	set ("weapon_name", "paws") ;
 	set ("stat/strength", 4) ;
 	set ("stat/dexterity", 6) ;
 	set_skill("attack", 3, "strength") ;
-	set_skill("defense", 9999, "dexterity") ;
+	set_skill("defense",1, "dexterity") ;
 	set_verbs( ({ "poke at", "swing at", "swipe at" }) ) ;
 }
 

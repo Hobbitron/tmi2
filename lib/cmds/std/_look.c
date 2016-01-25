@@ -157,18 +157,37 @@ write (LANGUAGE_D->garble_string(look_in_room (env, (int)viewingOb->query_temp (
 }
 
 int can_see (object who, object what) {
-  int invis;
+	return visible(what, who);
+	/*
+	int invis, realm;
+	
+	if (!(what->query ("short")))
+		return 0;
+	invis = what->query ("invisible");
+	if (!invis)
+		return 1; 
+	if (invis == 1 && wizardp (who))
+		return 1;
+	if (invis == 2 && adminp(who->query ("name")))
+		return 1;
+	return 0;
+	*/
+}
 
-  if (!(what->query ("short")))
-    return 0;
-  invis = what->query ("invisible");
-  if (!invis)
-    return 1; 
-  if (invis == 1 && wizardp (who))
-    return 1;
-  if (invis == 2 && adminp(who->query ("name")))
-    return 1;
-  return 0;
+int realm_see (object who, object what) {
+	int whorealm, whatrealm, umbrasight;
+	
+	if (!(what->query ("short")))
+		return 0;
+	whatrealm = what->query("realm");
+	whorealm = who->query("realm");
+	umbrasight = who->query("umbrasight");
+	if (wizardp(who))
+		return 1;
+	else if (whorealm == 0 && whatrealm == 1 && !umbrasight)
+		return 0;
+	else
+		return 1;
 }
 
 int can_see2 (object what, object who) {
@@ -178,12 +197,14 @@ int can_see2 (object what, object who) {
 string living_description (object ob) {
   object *inv;
   int i;
-  string a1, a2, tmp, reg, race, raceat, short, gender, genat;
+  string a1, a2, tmp, reg, race, raceat, short, gender, genat, maxhp, curhp;
    
   reg = (string)ob->query ("long");
   if (!reg)
     reg = "";
    
+   
+
   race = (string)ob->query ("race");
   raceat = article (race) + " " + race;
   gender = (string)ob->query ("gender");
@@ -217,6 +238,9 @@ string living_description (object ob) {
     }
   } else
     reg = sprintf ("%s%s empty handed.\n", reg, genat);
+	maxhp = (string)ob->query ("max_hp");
+    curhp = (string)ob->query ("hit_points");
+	reg = reg + curhp + "/" + maxhp + " hp\n";    
 #ifndef BLOCK_ATTACK
   }
 #endif
@@ -298,7 +322,7 @@ string item_description (string str, object user, int infra, string In) {
   }
 #endif
    
-  if (it && !can_see (viewingOb, it))
+  if (it && !can_see (viewingOb, it) && !realm_see(viewingOb, it))
     return "I don't see that here.\n";
    
   if (infra && it && objectp(it))
@@ -308,7 +332,7 @@ string item_description (string str, object user, int infra, string In) {
       return "Your infravision shows no heat pattern.\n";
    
   if (it) {
-    if (living (it))
+    if (living (it) && can_see(user, it) && realm_see(user, it))
       ret = living_description (it);
     else
       ret = (string)it->query ("long");
@@ -436,11 +460,7 @@ details of the surroundings are given. */
     if (flag && viewingOb->query ("brief")) {
       long = sprintf ("%s\n", room->query ("short"));
     } else {
-#ifdef LONG_WITH_SHORT
       long = sprintf ("%s\n%s", room->query ("short"), room->query ("long"));
-#else
-      long = room->query ("long");
-#endif
       if (!flag && room->query ("outside"))
         long += WEATHER_D->query_weather_msg();
     }
@@ -531,7 +551,7 @@ exits will be displayed or not. */
     while (i--) {
       tmp = (string)contents[i]->query ("short");
       if (contents[i] != viewingOb && tmp && tmp != "")
-	if (can_see(viewingOb,contents[i]))
+	if (visible(viewingOb,contents[i]))
 	  long = sprintf ("%s %s\n", long, capitalize (tmp));
     }
   } else
@@ -629,7 +649,7 @@ on 10 April 1993, kept out by Fantome 24 July 1993 */
 
 // Remove all invisible objects from the room's content's list
 int clean_objects (object what) {
-  if (!can_see (viewingOb, what))
+  if (!can_see (viewingOb, what) || !realm_see(viewingOb, what))
     return 0;
   return (((string)what->query ("short") && what != viewingOb) ? 1 : 0);
 }

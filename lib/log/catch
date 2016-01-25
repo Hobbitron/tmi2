@@ -10089,3 +10089,3252 @@ Object: /adm/daemons/network/I3 at line 88
 'CATCH' at /adm/daemons/network/socket#0 at line 211
 '<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
 'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*Error in loading object '/cmds/std/_look'
+Object: /cmds/object/_update at line 217
+
+'cmd_hook' at /std/user#3 at line 134
+'cmd_update' at /cmds/object/_update at line 162
+'do_update' at /cmds/object/_update at line 217
+'CATCH' at /cmds/object/_update at line 217
+---
+*Error in loading object '/cmds/std/_look'
+Object: /cmds/object/_update at line 144
+
+'cmd_hook' at /std/user#3 at line 134
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+---
+*Error in loading object '/cmds/std/spells/_fireball'
+Object: /cmds/object/_update at line 144
+
+'cmd_hook' at /std/user#3 at line 134
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+---
+*Error in loading object '/cmds/std/spells/_fireball'
+Object: /cmds/object/_update at line 144
+
+'cmd_hook' at /std/user#3 at line 134
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+---
+*Error in loading object '/cmds/std/spells/_fireball'
+Object: /cmds/object/_update at line 144
+
+'cmd_hook' at /std/user#3 at line 134
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+---
+*Error in loading object '/cmds/std/spells/_fireball'
+Object: /cmds/object/_update at line 217
+
+'cmd_hook' at /std/user#3 at line 134
+'cmd_update' at /cmds/object/_update at line 162
+'do_update' at /cmds/object/_update at line 217
+'CATCH' at /cmds/object/_update at line 217
+---
+*Error in loading object '/cmds/std/spells/_fireball'
+Object: /cmds/object/_update at line 144
+
+'cmd_hook' at /std/user#3 at line 134
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+---
+*Error in loading object '/cmds/std/spells/_fireball'
+Object: /cmds/object/_update at line 144
+
+'cmd_hook' at /std/user#3 at line 134
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+---
+*Error in loading object '/cmds/std/spells/_fireball'
+Object: /cmds/object/_update at line 144
+
+'cmd_hook' at /std/user#3 at line 134
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+---
+*Error in loading object '/cmds/std/spells/_fireball'
+Object: /cmds/object/_update at line 144
+
+'cmd_hook' at /std/user#3 at line 134
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+---
+*Error in loading object '/cmds/std/spells/_fireball'
+Object: /cmds/object/_update at line 144
+
+'cmd_hook' at /std/user#3 at line 134
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+---
+*Error in loading object '/cmds/std/spells/_fireball'
+Object: /cmds/object/_update at line 144
+
+'cmd_hook' at /std/user#3 at line 134
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+---
+*Error in loading object '/cmds/std/spells/_fireball'
+Object: /cmds/object/_update at line 144
+
+'cmd_hook' at /std/user#3 at line 134
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+---
+*Error in loading object '/cmds/std/spells/_fireball'
+Object: /cmds/object/_update at line 144
+
+'cmd_hook' at /std/user#3 at line 134
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+---
+*Error in loading object '/cmds/std/spells/_fireball'
+Object: /cmds/object/_update at line 217
+
+'cmd_hook' at /std/user#3 at line 134
+'cmd_update' at /cmds/object/_update at line 162
+'do_update' at /cmds/object/_update at line 217
+'CATCH' at /cmds/object/_update at line 217
+---
+*Error in loading object '/cmds/std/spells/_fireball'
+Object: /cmds/object/_update at line 144
+
+'cmd_hook' at /std/user#3 at line 134
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*Error in loading object '/cmds/std/_gauntletwalk'
+Object: /cmds/object/_update at line 144
+
+'cmd_hook' at /std/user#5 at line 134
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*Error in loading object '/adm/simul_efun/visible'
+Object: /cmds/object/_update at line 144
+
+'cmd_hook' at /std/user#3 at line 134
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+---
+*Error in loading object '/adm/simul_efun/visible'
+Object: /cmds/object/_update at line 144
+
+'cmd_hook' at /std/user#3 at line 134
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*Error in loading object '/cmds/std/_say'
+Object: /cmds/object/_update at line 217
+
+'cmd_hook' at /std/user#3 at line 134
+'cmd_update' at /cmds/object/_update at line 162
+'do_update' at /cmds/object/_update at line 217
+'CATCH' at /cmds/object/_update at line 217
+---
+*Error in loading object '/cmds/std/_say'
+Object: /cmds/object/_update at line 144
+
+'cmd_hook' at /std/user#3 at line 134
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*Error in loading object '/cmds/std/_look'
+Object: /cmds/object/_update at line 217
+
+'cmd_hook' at /std/user#3 at line 134
+'cmd_update' at /cmds/object/_update at line 162
+'do_update' at /cmds/object/_update at line 217
+'CATCH' at /cmds/object/_update at line 217
+---
+*Error in loading object '/cmds/std/_cloaksight'
+Object: /cmds/object/_update at line 144
+
+'cmd_hook' at /std/user#3 at line 134
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*Error in loading object '/std/user'
+Object: /std/connection#2 at line 143
+
+'get_password' at /adm/daemons/logind at line 336
+'login_new_copy' at /adm/daemons/logind at line 343
+'restore_body' at /std/connection#2 at line 143
+'CATCH' at /std/connection#2 at line 143
+---
+*Error in loading object '/std/user'
+Object: /std/connection#3 at line 143
+
+'get_password' at /adm/daemons/logind at line 336
+'login_new_copy' at /adm/daemons/logind at line 343
+'restore_body' at /std/connection#3 at line 143
+'CATCH' at /std/connection#3 at line 143
+---
+*Error in loading object '/std/user'
+Object: /std/connection#4 at line 143
+
+'get_password' at /adm/daemons/logind at line 336
+'login_new_copy' at /adm/daemons/logind at line 343
+'restore_body' at /std/connection#4 at line 143
+'CATCH' at /std/connection#4 at line 143
+---
+*Error in loading object '/std/user'
+Object: /std/connection#5 at line 143
+
+'get_password' at /adm/daemons/logind at line 336
+'login_new_copy' at /adm/daemons/logind at line 343
+'restore_body' at /std/connection#5 at line 143
+'CATCH' at /std/connection#5 at line 143
+---
+*Error in loading object '/std/user'
+Object: /std/connection#2 at line 143
+
+'get_password' at /adm/daemons/logind at line 336
+'login_new_copy' at /adm/daemons/logind at line 343
+'restore_body' at /std/connection#2 at line 143
+'CATCH' at /std/connection#2 at line 143
+---
+*Error in loading object '/std/user'
+Object: /std/connection#2 at line 143
+
+'get_password' at /adm/daemons/logind at line 336
+'login_new_copy' at /adm/daemons/logind at line 343
+'restore_body' at /std/connection#2 at line 143
+'CATCH' at /std/connection#2 at line 143
+---
+*Error in loading object '/std/user'
+Object: /std/connection#2 at line 143
+
+'get_password' at /adm/daemons/logind at line 336
+'login_new_copy' at /adm/daemons/logind at line 343
+'restore_body' at /std/connection#2 at line 143
+'CATCH' at /std/connection#2 at line 143
+---
+*Error in loading object '/std/user'
+Object: /std/connection#2 at line 143
+
+'get_password' at /adm/daemons/logind at line 336
+'login_new_copy' at /adm/daemons/logind at line 343
+'restore_body' at /std/connection#2 at line 143
+'CATCH' at /std/connection#2 at line 143
+---
+*Error in loading object '/std/user'
+Object: /std/connection#2 at line 143
+
+'get_password' at /adm/daemons/logind at line 336
+'login_new_copy' at /adm/daemons/logind at line 343
+'restore_body' at /std/connection#2 at line 143
+'CATCH' at /std/connection#2 at line 143
+---
+*Error in loading object '/cmds/std/_emote'
+Object: /cmds/object/_update at line 217
+
+'cmd_hook' at /std/user#3 at line 134
+'cmd_update' at /cmds/object/_update at line 162
+'do_update' at /cmds/object/_update at line 217
+'CATCH' at /cmds/object/_update at line 217
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*Error in loading object '/cmds/std/_say'
+Object: /cmds/object/_update at line 144
+
+'cmd_hook' at /std/user#3 at line 134
+'cmd_update' at /cmds/object/_update at line 144
+'CATCH' at /cmds/object/_update at line 144
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+Object: /adm/daemons/emoted at line 719
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+'process_channel_m' at /adm/daemons/network/I3/channel at line 213
+'parse_channel' at /adm/daemons/channels at line 339
+'return_parse' at /adm/daemons/emoted at line 719
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88
+---
+*call_other() couldn't find object
+Object: /adm/daemons/network/I3 at line 88
+
+'read_callback' at /adm/daemons/network/socket#0 at line 211
+'CATCH' at /adm/daemons/network/socket#0 at line 211
+'<fake>' at /adm/daemons/network/I3 (/<driver>) at line 0
+'read_callback' at /adm/daemons/network/I3 at line 88

@@ -16,9 +16,9 @@ void create() {
   set ("long", "@@query_long");
   set ("mass", 60) ;
   set ("bulk", 35) ;
-    set ("value", ({ 600, "credits" }) ) ;
+  set ("value", ({ 600, "credits" }) ) ;
   set ("weapon", 2) ;
-  set ("damage", ({ 1, 4 }) ) ;
+  set ("damage", ({ 20, 100 }) ) ;
   set ("type", "blunt") ;
   set ("name", "light-saber") ;
   set ("power", 1000);

@@ -12,7 +12,8 @@ int cmd_emote(string str) {
 
     if(!str) {
       write("You look emotional.\n");
-      say(this_player()->query("cap_name")+" looks emotional.\n");
+	  room_message("$n looks emotional.\n", this_player()->query("cap_name"), 1);
+      //say(this_player()->query("cap_name")+" looks emotional.\n");
       return 1;
     }
     if (!wizardp(previous_object())) first = "-> ";

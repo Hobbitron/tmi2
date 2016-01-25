@@ -279,7 +279,7 @@ int clean_up()
 
 static void set_stats(object player) {
 
-	int strength, intelligence, dexterity, constitution ;
+	int strength, intelligence, dexterity, constitution, willpower, luck ;
 	int hp, sp, total ;
 	//string *languages ;
 	mapping languages; // Leto
@@ -294,7 +294,9 @@ static void set_stats(object player) {
 		intelligence = 9+random(7)+random(7) ;
 		dexterity = 9+random(7)+random(7) ;
 		constitution = 9+random(7)+random(7) ;
-		total = strength + intelligence + dexterity + constitution ;
+		willpower = 9+random(7)+random(7) ;
+		luck = 9+random(7)+random(7) ;
+		total = strength + intelligence + dexterity + constitution + willpower + luck ;
 	}
 	switch (player->query("race")) {
 		case "human" : {
@@ -337,6 +339,8 @@ static void set_stats(object player) {
 	stat["intelligence"] = intelligence ;
 	stat["dexterity"] = dexterity ;
 	stat["constitution"] = constitution ;
+	stat["willpower"] = constitution ;
+	stat["luck"] = constitution ;
 	player->set("stat", stat, LOCKED) ;
 
 #ifdef LANGUAGES

@@ -72,7 +72,7 @@ int cmd_zap(string str) {
    write("You zap " + (string)target->query("cap_name") + ".\n");
    else write("You zap yourself.\n");
  
-   target->receive_damage( 1000 );	// Overkill  <grin>
+   target->receive_damage( target->query("max_hp"));	// Overkill  <grin>
 
 #ifdef ZAP_LOG
    if(interactive(target))

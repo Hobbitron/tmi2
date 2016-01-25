@@ -14,37 +14,21 @@ inherit DAEMON;
  
 int cmd_say(string str) {
 
-int last;
- 
-this_player()->block_attack(2) ;
-if ((!str) || (str == " "))
- {
-  message("error","[say] Usage: say <message>\n", this_player() );
-  return 1;
- }
-last = str[<1];
-if (last != '?' && last != '!')
- {
-  message("say","You say: "+str+"\n", this_player() );
-  message("say",wrap(this_player()->query("cap_name")+" says: "+str
-  ),environment(this_player()),this_player() );
-  return 1;
- }
-if (last == '?')
- {
-  message("say","You ask: "+str+"\n", this_player() );
-  message("say",this_player()->query("cap_name")+" asks: "+ str+"\n",
-   environment(this_player()),this_player() );
-  return 1;
- }
-if (last == '!')
- {
-  message("say","You exclaim: "+str+"\n", this_player() );
-  message("say",this_player()->query("cap_name") + " exclaims: " + str+"\n" ,
-    environment(this_player()),this_player() );
-  return 1;
- }
-return 1;
+	int last;
+	 
+	this_player()->block_attack(2) ;
+	if ((!str) || (str == " ")) {
+			message("error","[say] Usage: say <message>\n", this_player() );
+			return 1;
+		}
+	message("say","You say: "+str+"\n", this_player());
+	if (this_player()->query("realm")) {
+		room_message("{N} says (umbra): "+str, this_player()->query("cap_name"), 1);
+	}
+	else {
+		room_message("{N} says: "+str, this_player()->query("cap_name"), 1);
+	}
+	return 1;
 }
  
 string help() {

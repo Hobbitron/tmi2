@@ -57,7 +57,13 @@
 // #include "/adm/simul_efun/merge.c"
 #include "/adm/simul_efun/path_file.c"
 #include "/adm/simul_efun/pronouns.c"
+// Called by: temp_file
+#include "/adm/simul_efun/hiddenp.c"
+// Calls: getoid 
+#include "/adm/simul_efun/visible.c"
 #include "/adm/simul_efun/say.c"
+#include "/adm/simul_efun/movement.c"
+#include "/adm/simul_efun/room_message.c"
 #include "/adm/simul_efun/shout.c"
 #include "/adm/simul_efun/slice_array.c"
 //#include "/adm/simul_efun/substr.c"
@@ -80,8 +86,7 @@
 // Simul_efuns that are called by other simul_efuns.
 // Called by: data get_object overrides
 #include "/adm/simul_efun/getoid.c"
-// Called by: temp_file
-#include "/adm/simul_efun/hiddenp.c"
+
 // Called by: visible
 #include "/adm/simul_efun/member_group.c"
 // Called by: overrides visible
@@ -110,8 +115,7 @@
 #include "/adm/simul_efun/tell_group.c"
 // Calls: write tell_object 
 #include "/adm/simul_efun/temp_file.c"
-// Calls: getoid 
-#include "/adm/simul_efun/visible.c"
+
 // Calls: member_group hiddenp 
 #include "/adm/simul_efun/writef.c"
 // Calls: write 

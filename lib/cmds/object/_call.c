@@ -91,7 +91,7 @@ int cmd_call( string a )
   else funcs = FUNC_LIST;
   if( s == 3 ) args = ({ exp_a[2] });
   if( s > 3 ) args = exp_a[2..(s-1)];
-
+  sprintf(objs);
   objs = resolv_ref( objs );
   if( objs == "users" ) objs = users();
   if( !pointerp( objs ) ) objs = ({ objs });

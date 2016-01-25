@@ -1917,8 +1917,8 @@ void do_message (svalue_t * lclass, svalue_t * msg, array_t * scope, array_t * e
         switch (scope->item[i].type) {
             case T_STRING:
                 ob = find_object(scope->item[i].u.string);
-                if (!ob || !object_visible(ob))
-                    continue;
+                //if (!ob || !object_visible(ob))
+                    //continue;
                 break;
             case T_OBJECT:
                 ob = scope->item[i].u.ob;

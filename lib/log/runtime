@@ -575,3 +575,223 @@ Object: /adm/daemons/network/socket#3 at line 152
 'check_router' at /adm/daemons/network/I3 at line 310
 'create' at /adm/daemons/network/I3 at line 286
 'create' at /adm/daemons/network/socket#3 at line 152
+---
+*Wrong permissions for opening file /tmp/query_3 for append.
+"No such file or directory"
+Object: /std/user#3 (/std/living/edit.c) at line 33
+
+'cmd_hook' at /std/user#3 at line 134
+'cmd_query' at /cmds/std/_query at line 12
+'cmd_report' at /cmds/std/_query (/cmds/std/_praise.c) at line 38
+'edit' at /std/user#3 (/std/living/edit.c) at line 33
+---
+*(s)printf(): Incorrect argument to type %s. (arg: 0)
+Object: /cmds/std/_look at line 190
+
+'cmd_hook' at /std/user#3 at line 134
+'cmd_look' at /cmds/std/_look at line 155
+'cmd_look' at /cmds/std/_look at line 110
+'look_at_item' at /cmds/std/_look at line 384
+'item_description' at /cmds/std/_look at line 316
+'living_description' at /cmds/std/_look at line 190
+---
+*(s)printf(): Incorrect argument to type %s. (arg: 0)
+Object: /cmds/std/_look at line 190
+
+'cmd_hook' at /std/user#3 at line 134
+'cmd_look' at /cmds/std/_look at line 155
+'cmd_look' at /cmds/std/_look at line 110
+'look_at_item' at /cmds/std/_look at line 384
+'item_description' at /cmds/std/_look at line 316
+'living_description' at /cmds/std/_look at line 190
+---
+*(s)printf(): Incorrect argument to type %s. (arg: 0)
+Object: /cmds/std/_look at line 190
+
+'cmd_hook' at /std/user#3 at line 134
+'cmd_look' at /cmds/std/_look at line 155
+'cmd_look' at /cmds/std/_look at line 110
+'look_at_item' at /cmds/std/_look at line 384
+'item_description' at /cmds/std/_look at line 316
+'living_description' at /cmds/std/_look at line 190
+---
+*(s)printf(): Incorrect argument to type %s. (arg: 0)
+Object: /cmds/std/_look at line 190
+
+'cmd_hook' at /std/user#3 at line 134
+'cmd_look' at /cmds/std/_look at line 155
+'cmd_look' at /cmds/std/_look at line 110
+'look_at_item' at /cmds/std/_look at line 384
+'item_description' at /cmds/std/_look at line 316
+'living_description' at /cmds/std/_look at line 190
+---
+*Trying to put int in string
+Object: /cmds/std/_look at line 188
+
+'cmd_hook' at /std/user#3 at line 134
+'cmd_look' at /cmds/std/_look at line 155
+'cmd_look' at /cmds/std/_look at line 110
+'look_at_item' at /cmds/std/_look at line 384
+'item_description' at /cmds/std/_look at line 316
+'living_description' at /cmds/std/_look at line 188
+---
+*Bad argument 1 to present()
+Expected: string or object Got: 0.
+Object: /cmds/std/spells/_fireball at line 13
+
+'cmd_hook' at /std/user#3 at line 134
+'cmd_fireball' at /cmds/std/spells/_fireball at line 13
+---
+*Error in loading object '/cmds/std/spells/_fireball'
+Object: /std/user#3 at line 134
+
+'cmd_hook' at /std/user#3 at line 134
+---
+*Bad argument 1 to present()
+Expected: string or object Got: 0.
+Object: /cmds/std/spells/_fireball at line 19
+
+'cmd_hook' at /std/user#3 at line 134
+'cmd_fireball' at /cmds/std/spells/_fireball at line 19
+---
+*Undefined function called: query_attackers
+Object: /cmds/std/spells/_fireball at line 65
+
+'fireball_effect' at /cmds/std/spells/_fireball at line 65
+---
+*Undefined function called: query_attackers
+Object: /cmds/std/spells/_fireball at line 67
+
+'fireball_effect' at /cmds/std/spells/_fireball at line 67
+---
+*Bad argument 1 to explode()
+Expected: string Got: 1.
+Object: /cmds/std/_help at line 438
+
+'cmd_hook' at /std/user#3 at line 134
+'cmd_help' at /cmds/std/_help at line 349
+'which_doc' at /cmds/std/_help at line 438
+---
+*Bad argument 1 to sprintf()
+Expected: string Got: ({ /* sizeof() == 1 */
+  "me"
+}).
+Object: /cmds/object/_call at line 88
+
+'cmd_hook' at /std/user#3 at line 134
+'cmd_call' at /cmds/object/_call at line 88
+---
+*Bad argument 1 to sprintf()
+Expected: string Got: ({ /* sizeof() == 1 */
+  "me asd"
+}).
+Object: /cmds/object/_call at line 88
+
+'cmd_hook' at /std/user#3 at line 134
+'cmd_call' at /cmds/object/_call at line 88
+---
+*Bad argument 1 to sprintf()
+Expected: string Got: ({ /* sizeof() == 1 */
+  /std/user#3
+}).
+Object: /cmds/object/_call at line 108
+
+'cmd_hook' at /std/user#3 at line 134
+'cmd_call' at /cmds/object/_call at line 108
+---
+*Bad argument 1 to strsrch()
+Expected: string Got: /d/TMI/rooms/quad.
+Object: /std/user#3 (/std/body.c) at line 322
+
+'cmd_hook' at /std/user#3 at line 134
+'cmd_emote' at /cmds/std/_emote at line 15
+'say' at /adm/obj/simul_efun at /adm/simul_efun/say.c:22
+'receive_message' at /std/user#3 (/std/body.c) at line 322
+---
+*Trying to put object in array
+Object: /adm/obj/simul_efun at /adm/simul_efun/say.c:25
+
+'cmd_hook' at /std/user#3 at line 134
+'cmd_emote' at /cmds/std/_emote at line 15
+'say' at /adm/obj/simul_efun at /adm/simul_efun/say.c:25
+---
+*Bad argument 1 to sprintf()
+Expected: string Got: 2.
+Object: /adm/obj/simul_efun at /adm/simul_efun/say.c:27
+
+'cmd_hook' at /std/user#3 at line 134
+'cmd_emote' at /cmds/std/_emote at line 15
+'say' at /adm/obj/simul_efun at /adm/simul_efun/say.c:27
+---
+*(s)printf(): Incorrect argument to type %s. (arg: 0)
+Object: /adm/obj/simul_efun at /adm/simul_efun/say.c:27
+
+'cmd_hook' at /std/user#3 at line 134
+'cmd_emote' at /cmds/std/_emote at line 15
+'say' at /adm/obj/simul_efun at /adm/simul_efun/say.c:27
+---
+*Left hand side of += is a number (or zero); right side is not a number.
+Object: /adm/obj/simul_efun at /adm/simul_efun/say.c:33
+
+'cmd_hook' at /std/user#3 at line 134
+'cmd_emote' at /cmds/std/_emote at line 15
+'say' at /adm/obj/simul_efun at /adm/simul_efun/say.c:33
+---
+*Error in loading object '/cmds/std/_cloaksight'
+Object: /std/user#3 at line 134
+
+'cmd_hook' at /std/user#3 at line 134
+---
+*Error in loading object '/cmds/std/_say'
+Object: /std/user#3 at line 134
+
+'cmd_hook' at /std/user#3 at line 134
+---
+*Error in loading object '/cmds/std/_say'
+Object: /std/user#5 at line 134
+
+'cmd_hook' at /std/user#5 at line 134
+---
+*Error in loading object '/cmds/std/_say'
+Object: /std/user#3 at line 134
+
+'cmd_hook' at /std/user#3 at line 134
+---
+*Error in loading object '/cmds/std/_say'
+Object: /std/user#3 at line 134
+
+'cmd_hook' at /std/user#3 at line 134
+---
+*Bad argument 1 to strsrch()
+Expected: string Got: 0.
+Object: /std/user#3 (/std/body.c) at line 322
+
+'cmd_hook' at /std/user#3 at line 134
+'cmd_say' at /cmds/std/_say at line 26
+'room_message' at /adm/obj/simul_efun at /adm/simul_efun/room_message.c:68
+'receive_message' at /std/user#3 (/std/body.c) at line 322
+---
+*Bad argument 1 to strsrch()
+Expected: string Got: 0.
+Object: /std/user#3 (/std/body.c) at line 322
+
+'cmd_hook' at /std/user#3 at line 134
+'cmd_say' at /cmds/std/_say at line 26
+'room_message' at /adm/obj/simul_efun at /adm/simul_efun/room_message.c:63
+'receive_message' at /std/user#3 (/std/body.c) at line 322
+---
+*Bad argument 1 to strsrch()
+Expected: string Got: 0.
+Object: /std/user#5 (/std/body.c) at line 322
+
+'cmd_hook' at /std/user#3 at line 134
+'cmd_say' at /cmds/std/_say at line 26
+'room_message' at /adm/obj/simul_efun at /adm/simul_efun/room_message.c:63
+'receive_message' at /std/user#5 (/std/body.c) at line 322
+---
+*(s)printf(): More arguments specified than passed. (arg: 1)
+Object: /adm/obj/simul_efun at /adm/simul_efun/room_message.c:38
+
+'cmd_hook' at /std/user#3 at line 134
+'cmd_say' at /cmds/std/_say at line 26
+'room_message' at /adm/obj/simul_efun at /adm/simul_efun/room_message.c:38

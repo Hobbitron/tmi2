@@ -73,12 +73,12 @@
 //  Important global mudlib information
  
 #define THIS_MUD 	lower_case(implode(explode(mud_name(), " "), "."))
-#define ADMIN_EMAIL	"paul@via.nl or tmi2@cam037103.student.utwente.bl"
+#define ADMIN_EMAIL	"edwards8@gmail.com"
  
 //  The AUTO_WIZHOOD define causes all those to login as new users to be
 //  granted automatic wizship, and given the PATH in the define.
  
-#define AUTO_WIZHOOD
+//#define AUTO_WIZHOOD
  
  
 // The SAFETY_SHUTDOWN define allows an admin to type "shutdown" at
@@ -97,7 +97,7 @@
  
 //  Mudlib definable locations
  
-#define START		"/d/TMI/rooms/quad"
+#define START		"/d/seatoncarew/parkinglot.c"
 #define VOID		"/d/std/void"
 
 // Note: some people may dislike the block_attack() system during combat...
